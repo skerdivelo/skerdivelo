@@ -10,10 +10,6 @@
         src="https://github-readme-stats.vercel.app/api?username=skerdivelo&show_icons=true"
         alt="skerdivelo"
     />
-    <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=skerdivelo"
-        alt="skerdivelo"
-    />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skerdivelo&label=Profile%20views&color=0e75b6&style=flat" alt="skerdivelo" /> </p>
