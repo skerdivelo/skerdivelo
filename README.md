@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skerdivelo&show_icons=true&locale=en&layout=compact" alt="skerdivelo" /></p>
 
-<p align="center">
+<p align="left">
     <img
         src="https://github-readme-stats.vercel.app/api?username=skerdivelo&show_icons=true"
         alt="skerdivelo"
