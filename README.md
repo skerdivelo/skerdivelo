@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full-stack developer and CyberSecurity enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skerdivelo&label=Profile%20views&color=0e75b6&style=flat" alt="skerdivelo" /> </p>
-<script>alert(1)</script>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skerdivelo" alt="skerdivelo" /></a> </p>
 
