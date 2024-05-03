@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skerdivelo&row=2&column=4&margin-w=15&margin-h=15" alt="skerdivelo" /></a> </p>
 
-- 🔭 I’m currently working on **a svelte project**
+- 🔭 I’m currently working on **a React-Native project**
 
 - 🌱 I’m currently learning **Frameworks, courses**
 
